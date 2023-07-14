@@ -8,8 +8,8 @@
 
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=codedennis&show_icons=true&count_private=true&hide_border=true&title_color=0277b5&icon_color=0277b5&text_color=c9d1d9&bg_color=0d1117" alt="Dennis Santos github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codedennis&layout=compact&hide_border=true&title_color=0277b5&text_color=0277b5&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=codedennis&show_icons=true&count_private=true&hide_border=true&title_color=d91a1a&icon_color=d91a1a&text_color=c9d1d9&bg_color=0d1117" alt="Dennis Santos github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codedennis&layout=compact&hide_border=true&title_color=d91a1a&text_color=d91a1a&bg_color=0d1117" />
 </div>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=codedennis&bg_color=171515&color=1c71d8&line=ed333b&point=99c1f1&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
