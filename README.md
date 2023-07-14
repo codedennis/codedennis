@@ -1,7 +1,7 @@
 
 
 <div align="center">
-<img src="https://github.com/codedennis/codedennis/assets/59423597/e76adbfa-55fd-4196-93fb-460076ad64d8" width="700px" />
+<img src="https://github.com/codedennis/codedennis/assets/59423597/c9a73061-4e14-45d4-9ae0-613c57ea3194" width="700px" />
 </div>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=d91a1a&size=35&center=true&vCenter=true&width=1000&lines=Hello,+I'm+Dennis!:%29)](https://git.io/typing-svg)
