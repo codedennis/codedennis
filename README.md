@@ -1,30 +1,4 @@
+<!-- Dennis Metrics. Keep adjacent image tags together to preserve seamless rows. -->
+<p><img src="./assets/dm-brand-welcome.png" width="100%" align="top" alt="Dennis Metrics — Data &amp; Decision Systems. Data → Analysis → Business Insights → Better Decisions. Welcome to Dennis Metrics."><picture><source media="(prefers-reduced-motion: reduce)" srcset="./assets/dm-typing-static.png"><img src="./assets/dm-typing.gif" width="100%" align="top" alt="Data &amp; Decision Systems — animated typing headline."></picture><img src="./assets/dm-dashboard.png" width="100%" align="top" alt="ANALYTICS · MACHINE LEARNING · DECISION SYSTEMS. APPROACH — FROM DATA TO BETTER DECISIONS: 01 SIGNAL — Collect, Explore, Understand; 02 STRUCTURE — Clean, Organise, Model Data; 03 ANALYSIS — Statistical, Machine Learning, Optimisation; 04 INSIGHTS — Find Patterns, Quantify Impact, Tell the Story; 05 DECISION — Recommendations, Decision Support, Real-World Impact. SKILLS &amp; TOOLS — TECHNOLOGY FOR INSIGHTS. Programming &amp; Analytics: Python, SQL, R, Jupyter, NumPy, Pandas. Data &amp; Visualisation: Power BI, Tableau, Looker Studio, Excel, Matplotlib, Seaborn. Machine Learning &amp; Statistics: scikit-learn, statsmodels, XGBoost, PyTorch, Regression, Clustering. Data Engineering &amp; Cloud: PostgreSQL, BigQuery, GCP, Git, n8n, APIs."><img src="./assets/dm-key-email-row.png" width="55%" align="top" alt="BUSINESS ANALYTICS — KPIs · Performance · Growth. STATISTICAL MODELLING — Inference · Regression · GLM."><a href="mailto:dennis.simas@gmail.com"><img src="./assets/dm-connect-email.png" width="45%" align="top" alt="EMAIL — dennis.simas@gmail.com. Send an email."></a><img src="./assets/dm-key-linkedin-row.png" width="55%" align="top" alt="MACHINE LEARNING — Prediction · Classification. OPTIMISATION — Constraints · Better Choices."><a href="https://www.linkedin.com/in/dennismkt/"><img src="./assets/dm-connect-linkedin.png" width="45%" align="top" alt="LINKEDIN — linkedin.com/in/dennismkt. Open LinkedIn."></a><img src="./assets/dm-footer-bottom.png" width="100%" align="top" alt="DECISION SYSTEMS — From Insights to Action. DATA STORYTELLING — Clear · Actionable · Impactful. “Data turns complexity into clarity, and clarity creates better decisions.”"></p>
 
-
-<div align="center">
-<img src="https://github.com/codedennis/codedennis/assets/59423597/c9a73061-4e14-45d4-9ae0-613c57ea3194" width="700px" />
-</div>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&color=D91A1A&size=35&center=true&vCenter=true&width=1000&lines=Data+%26+Decision+Systems)](https://git.io/typing-svg)
-
-
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=codedennis&show_icons=true&count_private=true&hide_border=true&title_color=d91a1a&icon_color=d91a1a&text_color=c9d1d9&bg_color=0d1117" alt="Dennis Santos github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codedennis&layout=compact&hide_border=true&title_color=d91a1a&text_color=d91a1a&bg_color=0d1117" />
-</div>
-
-
-  ### Main skills:
-[![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E&labelColor=0D1117)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)&nbsp;
-[![React](https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=0D1117)](https://reactjs.org/)&nbsp;
-[![Node.js](https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=nodedotjs&logoColor=339933&labelColor=0D1117)](https://nodejs.org/)&nbsp;
-[![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=3776AB&labelColor=0D1117)](https://www.python.org/)&nbsp;
-[![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=3178C6&labelColor=0D1117)](https://www.typescriptlang.org/)&nbsp;
-[![n8n](https://img.shields.io/badge/n8n-0D1117?style=for-the-badge&logo=n8n&logoColor=F15A24&labelColor=0D1117)](https://n8n.io/)&nbsp;
-
-                    
-<div align="center"> 
-  <a href = "mailto: dennis.simas@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/dennismkt/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
- </div>
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=d91a1a&height=120&section=footer"/>
+[Readable mobile view](./MOBILE.md)
