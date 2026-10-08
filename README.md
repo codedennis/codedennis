@@ -4,7 +4,7 @@
 <img src="https://github.com/codedennis/codedennis/assets/59423597/c9a73061-4e14-45d4-9ae0-613c57ea3194" width="700px" />
 </div>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=d91a1a&size=35&center=true&vCenter=true&width=1000&lines=Data+&+Decision+Systems!:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=d91a1a&size=35&center=true&vCenter=true&width=1000&lines=Dennis+I'm+Dennis!:%29)](https://git.io/typing-svg)
 
 
 <div align="center">  
